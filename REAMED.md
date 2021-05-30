@@ -1,0 +1,1 @@
+This is Frederic's first git project!
